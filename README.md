@@ -1,6 +1,7 @@
 # Bootstriping
 <br>
 #!/bin/bash
+<br>
 sudo su
 apt-get update -y
 apt install apache2 -y
